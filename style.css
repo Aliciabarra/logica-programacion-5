@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+    color: #2f3559;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color: #2f3559;
+}
+input{
+    background-color:#e6d8cb ;
+    cursor: pointer;
+}
+body{
+    text-align: center;
+    background-color: #f1bbbb ;
+}
